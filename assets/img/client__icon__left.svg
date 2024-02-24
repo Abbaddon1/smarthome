@@ -1,0 +1,11 @@
+<svg width="51" height="18" viewBox="0 0 51 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 1000000778">
+<g id="Rectangle 4309">
+<mask id="path-1-inside-1_0_705" fill="white">
+<rect width="12.7277" height="12.7277" rx="2" transform="matrix(-0.707107 0.707107 0.707107 0.707107 8.99988 0)"/>
+</mask>
+<rect width="12.7277" height="12.7277" rx="2" transform="matrix(-0.707107 0.707107 0.707107 0.707107 8.99988 0)" stroke="#000F37" stroke-width="6" mask="url(#path-1-inside-1_0_705)"/>
+</g>
+<path id="Vector 334" d="M15.9229 9H50.5381" stroke="#000F37" stroke-width="3"/>
+</g>
+</svg>
